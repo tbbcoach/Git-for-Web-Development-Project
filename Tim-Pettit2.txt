@@ -13,10 +13,13 @@ CODEPEN LINK>https://codepen.io/tim-pettit/pen/NWqxVoO
     6. What do we put in the head of our HTML document? 
       data that is not displayed, but tells the browser how to do things and where they are.
     7. What is an id? 
+       something to use when you want an element to be unique.
     8. What elements can I add an id to? 
+         any
     9. How many times can I use the same id on a page? 
       Only once.
     10. What is a class? 
+         
     11. What elements can I add a class to? 
     12. How many times can I use the same class on a page? 
       As many as required.
